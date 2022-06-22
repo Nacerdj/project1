@@ -1,5 +1,6 @@
 # project1
 Reimbursement-System---Enterprise
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 emp_header.html -- carries information reg menu items when employee login to app mgr_header.html -- carries information reg menu items when maanger login to app
 
 emp_homePage.html -- shows image when employee login mgr_homePage.html -- shows image when manager login
