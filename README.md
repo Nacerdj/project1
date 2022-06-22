@@ -33,7 +33,9 @@ com.app.jdbc -- JdbcOperations -- All database queires we are executing from her
 we written one common mehtod -- establish connection -- where we provide username and password to connect with database -- EmailSender.java -- this program sends email to given receiver
 
 Technologies used for this project
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 •Java 1.8 •Servlets •JDBC •SQL •PL/SQL •HTML/CSS •Bootstrap •Java Mail •Log4jEnvironment •Tomcat •Postgres Database
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Expense Reimbursement System (ERS)In this document, all requirements and required technologies pertaining the first full stack individual project of your training will be presented. All requirements are mandatory.
 
@@ -46,6 +48,7 @@ Finance managers can log in and view all reimbursement requests and history for 
 Finance managers are authorized to approve and deny requests for expense reimbursement.
 
 Mandatory Requirements
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 An Employee can: •Login.
 •View the employee homepage.
 •Logout.
@@ -55,9 +58,11 @@ An Employee can: •Login.
 A Manager can: •Login. •View the manager home page. •Logout. •Approve/Deny pending reimbursement requests. •View all pending requests of all employees. •View all resolved requests of all employees. •View reimbursement requests of a specific employee. •View all employees.
 
 Optional Requirements
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 An Employeecan: •Upload an image of his/her receipt as part of the reimbursement request. •Receive an email when one of their reimbursement requests is resolved. •Reset their password.
 
 A Manager can: •View animage of the receipt of a reimbursement request. •Register an employee and send an email to that employee with his credentials.
 
 Technologies
-•Java 1.8 •Servlets •JDBC •SQL •PL/SQL •HTML/CSS •Bootstrap •Java Mail •Log4jEnvironment •Tomcat •Postgres Database
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+•Java 1.8 •Servlets •JDBC •SQL  •HTML/CSS •Bootstrap •Java Mail •Log4jEnvironment •Tomcat •Mysql Database
